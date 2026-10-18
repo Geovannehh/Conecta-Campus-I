@@ -4,7 +4,7 @@ Plataforma Flask com identidade inspirada no azul, dourado e vermelho da Univers
 
 ## Pagina Inicial
 
-<img width="840" height="800" alt="preview" src="https://github.com/user-attachments/assets/0f484323-4604-4eba-80b1-4593a74ce0a1" />
+<img width="840" height="512" alt="preview" src="https://github.com/user-attachments/assets/0f484323-4604-4eba-80b1-4593a74ce0a1" />
 
 
 
